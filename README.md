@@ -107,13 +107,3 @@ All updates are processed by `src/processing/dataHandler.ts` and stored using Pr
 - (Optional) Database supported by Prisma (PostgreSQL, MySQL, SQLite, etc.)
 
 ---
-
-## License
-
-MIT (add license file as needed)
-
----
-
-## Author
-
-Maintained by [@raunit-dev](https://github.com/raunit-dev)
